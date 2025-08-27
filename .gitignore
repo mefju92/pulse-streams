@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+dist
+cache
+.git-*
+.env
+.env.*
+foundry.toml.lock
